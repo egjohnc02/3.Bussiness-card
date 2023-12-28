@@ -1,0 +1,6 @@
+~ image alt text
+~ flex child container
+~ inheritance
+~ shorthands
+~ web-safe font 
+~ color pallets
